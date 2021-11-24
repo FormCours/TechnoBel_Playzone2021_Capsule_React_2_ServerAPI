@@ -1,0 +1,29 @@
+{
+  "message": [
+    {
+      "id": 1,
+      "title": "Hello World",
+      "content": "C'est cool comme serveur de prototype ;)"
+    },
+    {
+      "id": 2,
+      "title": "Demo",
+      "content": "Message de demo"
+    },
+    {
+      "title": "Test Redux",
+      "content": "Utilisation de Redux",
+      "id": 3
+    },
+    {
+      "title": "Debut de la demo",
+      "content": "=)",
+      "id": 4
+    },
+    {
+      "title": "Test durant la demo",
+      "content": "Salut TechnoBel",
+      "id": 5
+    }
+  ]
+}
